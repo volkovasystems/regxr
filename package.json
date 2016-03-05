@@ -1,0 +1,28 @@
+{
+  "name": "regxr",
+  "version": "0.0.0",
+  "description": "Multi-line regex builder.",
+  "main": "regxr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/regxr.git"
+  },
+  "keywords": [
+    "multi-line",
+    "regex",
+    "builder",
+    "regxr"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/regxr/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/regxr#readme",
+  "dependencies": {
+    "harden": "^0.2.0"
+  }
+}

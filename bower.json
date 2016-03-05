@@ -1,0 +1,32 @@
+{
+  "name": "regxr",
+  "version": "0.0.0",
+  "description": "Multi-line regex builder.",
+  "main": "regxr.js",
+  "authors": [
+    "Richeve S. Bebedor <richeve.bebedor@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "multi-line",
+    "regex",
+    "builder",
+    "regxr"
+  ],
+  "homepage": "https://github.com/volkovasystems/regxr",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "harden": "^0.2.0"
+  }
+}
